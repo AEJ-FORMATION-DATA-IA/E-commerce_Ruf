@@ -1,0 +1,185 @@
+{
+    "products": [{
+            "id": 6,
+            "title": "Chapeau Sortie",
+            "image": "./images/products/chapeaux/chapeau7.jpg",
+            "price": 2500,
+            "category": "Featured Products"
+        },
+
+        {
+            "id": 3,
+            "title": "pull RUN-D",
+            "image": "./images/products/pull/pull6.jpg",
+            "price": 3500,
+            "category": "Special Products"
+        },
+        {
+            "id": 4,
+            "title": "Robe_MCol",
+            "image": "./images/products/Robes/robe10.jpg",
+            "price": 5000,
+            "category": "Special Products"
+        },
+        {
+            "id": 8,
+            "title": "Sol_J",
+            "image": "./images/products/Robes/robe5.jpg",
+            "price": 5500,
+            "category": "Featured Products"
+        },
+        {
+            "id": 5,
+            "title": "Bonnet_lain",
+            "image": "./images/products/chapeaux/chapeau3.jpg",
+            "price": 1500,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 7,
+            "title": "Y__F",
+            "image": "./images/products/chapeaux/chapeau10.jpg",
+            "price": 1500,
+            "category": "Featured Products"
+        },
+
+
+        {
+            "id": 10,
+            "title": "PMP",
+            "image": "./images/products/pull/pull8.jpg",
+            "price": 1000,
+            "category": "Special Products"
+        },
+        {
+            "id": 11,
+            "title": "R_OL",
+            "image": "./images/products/Robes/robe1.jpg",
+            "price": 1500,
+            "category": "Special Products"
+        },
+        {
+            "id": 13,
+            "title": "Ch_PM",
+            "image": "./images/products/chapeaux/chapeau9.jpg",
+            "price": 800,
+            "category": "Trending Products"
+        },
+        {
+            "id": 12,
+            "title": "R_OM",
+            "image": "./images/products/Robes/robe2jpg.png",
+            "price": 850,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 14,
+            "title": "R_MK",
+            "image": "./images/products/Robes/robe3.png",
+            "price": 1100,
+            "category": "Trending Products"
+        },
+        {
+            "id": 9,
+            "title": "P_OL",
+            "image": "./images/products/pull/pull10.jpg",
+            "price": 800,
+            "category": "Special Products"
+        },
+        {
+            "id": 15,
+            "title": "C_UK",
+            "image": "./images/products/chapeaux/chapeau4.jpg",
+            "price": 1090,
+            "category": "Trending Products"
+        },
+        {
+            "id": 16,
+            "title": "C_OI",
+            "image": "./images/products/chapeaux/chapeau6.jpg",
+            "price": 870,
+            "category": "Special Products"
+        },
+        {
+            "id": 17,
+            "title": "P_FG",
+            "image": "./images/products/pull/pull1.jpg",
+            "price": 1200,
+            "category": "Trending Products"
+        },
+        {
+            "id": 2,
+            "title": "P_UI",
+            "image": "./images/products/pull/pull4.jpg",
+            "price": 300,
+            "category": "Special Products"
+        },
+        {
+            "id": 18,
+            "title": "P_RT",
+            "image": "./images/products/pull/pull9.jpg",
+            "price": 1188,
+            "category": "Trending Products"
+        },
+        {
+            "id": 20,
+            "title": "C_yt",
+            "image": "./images/products/chapeaux/chapeau8.jpg",
+            "price": 270,
+            "category": "Special Products"
+        },
+        {
+            "id": 19,
+            "title": "R_hb",
+            "image": "./images/products/Robes/robe5.jpg",
+            "price": 2500,
+            "category": "Trending Products"
+        },
+        {
+            "id": 1,
+            "title": "C_dr",
+            "image": "./images/products/chapeaux/chapeau10.jpg",
+            "price": 265,
+            "category": "Special Products"
+        },
+        {
+            "id": 24,
+            "title": "C_wx",
+            "image": "./images/products/chapeaux/chapeau2.jpg",
+            "price": 5000,
+            "category": "Featured Products"
+        },
+        {
+            "id": 21,
+            "title": "C_Qa",
+            "image": "./images/products/chapeaux/chapeau1.jpg",
+            "price": 7007,
+            "category": "Trending Products"
+        },
+
+        {
+            "id": 25,
+            "title": "P_Re",
+            "image": "./images/products/pull/pull9.jpg",
+            "price": 4900,
+            "category": "Special Products"
+        },
+        {
+            "id": 22,
+            "title": "P_ii",
+            "image": "./images/products/pull/pull8.jpg",
+            "price": 460,
+            "category": "Trending Products"
+        },
+        {
+            "id": 23,
+            "title": "P_hT",
+            "image": "./images/products/pull/pull2.jpg",
+            "price": 6000,
+            "category": "Featured Products"
+        }
+
+    ]
+}
